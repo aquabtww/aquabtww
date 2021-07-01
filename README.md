@@ -3,7 +3,7 @@ I am a newbie Java developer specializing in Spigot-based Minecraft plugins.
 ## Knowledge
 <h4 align="center">Coding</h4>
 <p align="center">
- - Java
+ Java
  - Spigot
  - BungeeCord
 
