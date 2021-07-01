@@ -4,8 +4,8 @@ I am a newbie Java developer specializing in Spigot-based Minecraft plugins.
 <h4 align="center">Coding</h4>
 <p align="center">
  - Java
- - Spigot | IntellijIDEA
- - BungeeCord | IntellijIDEA
+ - Spigot
+ - BungeeCord
 
 ## Contacts
 Discord - aquabtw#7755
