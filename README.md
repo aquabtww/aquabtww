@@ -8,9 +8,9 @@ Java
  - BungeeCord
 
 ## Contacts
-Discord - aquabtw#7755
-VK - https://vk.com/wthisvk
-Email - dimaaskarp@mail.ru | kkddm1riy@gmail.com
+Discord - aquabtw#7755 |
+VK - https://vk.com/wthisvk |
+Email - dimaaskarp@mail.ru or kkddm1riy@gmail.com
 
 ### Languages
 Russian, English
