@@ -1,4 +1,4 @@
-I am a newbie Java developer specializing in Spigot-based Minecraft plugins. 
+I am a newbie-medium level Java developer specializing in Spigot-based Minecraft plugins. 
 
 ## Contacts
 Discord - aquabtw#7755 |
