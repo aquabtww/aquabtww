@@ -1,6 +1,6 @@
 also known as: tvnikQ
 ## Experience
-Experienced with: [![](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
+Experienced with: [![](https://skillicons.dev/icons?i=java,kotlin,python&theme=dark)](https://skillicons.dev)
 
 ## Contacts
 Discord - aquabtw
